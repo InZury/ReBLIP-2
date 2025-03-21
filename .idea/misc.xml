@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+          <State>
+            <id>GitHub 액션</id>
+          </State>
+          <State>
+            <id>버전 관리</id>
+          </State>
+          <State>
+            <id>정규식</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RegExpRedundantClassElement</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="BLIP-2" project-jdk-type="Python SDK" />
+</project>
